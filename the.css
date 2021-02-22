@@ -1,0 +1,32 @@
+.cheese {
+	width:100%;
+}
+
+.moreCheese {
+	width:100px;
+	height:100px;
+}
+
+.box {
+	width:200px;
+	height:200px;
+	border: 3px solid blue;
+	background-color:black;	
+	padding: 50px;
+	margin: 10px;
+	float:left;
+}
+
+.box p {
+	color:white;
+}
+
+nav {
+	text-align:center;
+}
+
+a {
+	text-decoration: none;
+	color:black;
+}
+
